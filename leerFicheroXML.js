@@ -1,9 +1,9 @@
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
-	let alumnos = xmlDoc.querySelectorAll("alumno")
-	for(let i=0; i<alumnos.length; i++)
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + alumnos[i].textContent + "</p>"
+	let libros = xmlDoc.querySelectorAll("alumno")
+	for(let i=0; i<libros.length; i++)
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + libros[i].textContent + "</p>"
 	
 }
 
-	loadDocA("leerFicheroXML.xml","xml");
+	loadDocA("libros.xml","xml");
