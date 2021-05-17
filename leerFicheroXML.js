@@ -6,5 +6,4 @@ function gestionarFicheroXML(xmlDoc){
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + libros[i].textContent + "</p>"
 	
 }
-
-loadDocA("libros.xml","xml");
+	loadDocA("libros.xml","xml");
