@@ -16,4 +16,8 @@ function gestionarFicheroXML(xmlDoc){
         loadDocA("conver.xml","xml");
 
 }
-    setInterval(CargarFichero,2000);
+    setInterval(CargarFichero,2000)
+function CargarFichero()
+{
+        loadDocA("conver.xml","xml");
+};
