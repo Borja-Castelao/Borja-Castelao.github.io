@@ -1,4 +1,3 @@
-
 function gestionarFicheroXML(xmlDoc){
 	alert(xmlDoc)
 	let capaVacia = document.querySelector("#ficheroXML")
