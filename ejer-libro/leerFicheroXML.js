@@ -1,4 +1,4 @@
-<link href="ejer-1.css" type="text/css" rel="stylesheet" media="all" />   
+
 function gestionarFicheroXML(xmlDoc){
 	alert(xmlDoc)
 	let capaVacia = document.querySelector("#ficheroXML")
