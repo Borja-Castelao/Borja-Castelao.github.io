@@ -15,4 +15,4 @@ function CargarFichero()
 {
         loadDocA("conversacion.xml","xml")
 }
-    setInterval(CargarFichero,3000)
+    setInterval(CargarFichero,70000)
