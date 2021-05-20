@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <conversacion>
-	<persona1>Hola, buenos dias señor.</persona1>
+	<persona1 class="izquierda">Hola, buenos dias señor.</persona1>
 	<persona2>Hola, buenos dias.</persona2>
 	<persona1>¿Como esta usted?</persona1>
 	<alumno>Yo estoy bien. ¿Como esta usted?</alumno>
