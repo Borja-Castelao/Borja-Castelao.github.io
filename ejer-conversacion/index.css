@@ -1,9 +1,12 @@
 .persona1 {
             background-color: yellow;
             border: 2px solid black;
+            font-weight: bold;
         }
 
 .persona2 {
             background-color: green;
             border: 2px solid black;
+            font-weight: bold;
+
         }
