@@ -1,10 +1,10 @@
-p {
+.conversacion {
     border: 2px solid black;
 }
-.izquierda {
+.persona1 {
             background-color: yellow;
         }
 
-.derecha {
+.persona2 {
             background-color: green;
         }
