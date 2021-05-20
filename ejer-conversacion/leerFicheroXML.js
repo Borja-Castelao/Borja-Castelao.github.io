@@ -8,7 +8,6 @@ function gestionarFicheroXML(xmlDoc){
 		{
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='persona1'>" + P1[i].textContent + "</p>"
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='persona2'>" + P2[i].textContent + "</p>"
-
 		}
         alert("recargo")
 }
