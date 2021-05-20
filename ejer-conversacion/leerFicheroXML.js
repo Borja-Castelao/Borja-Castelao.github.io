@@ -1,5 +1,6 @@
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
+	capaVacia.innerHTML =""
 	let P1 = xmlDoc.querySelectorAll("persona1")
 	let P2 = xmlDoc.querySelectorAll("persona2")
 
