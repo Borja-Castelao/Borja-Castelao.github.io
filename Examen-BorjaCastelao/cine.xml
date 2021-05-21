@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cine>
+  <pelicula1>
+    <titulo>Harry Potter</titulo>
+    <director>Hagrid</director>
+    <fechaestreno>2001</fechaestreno>
+  </pelicula1>
+  <pelicula2>
+    <titulo>El señor de los anillos</titulo>
+    <director>Frodo</director>
+    <fechaestreno>1997</fechaestreno>
+  </pelicula2>
+  <pelicula3>
+    <titulo>Los juegos del  hambre</titulo>
+    <director>Capitolio</director>
+    <fechaestreno>2012</fechaestreno>
+  </pelicula3>
+</cine>
