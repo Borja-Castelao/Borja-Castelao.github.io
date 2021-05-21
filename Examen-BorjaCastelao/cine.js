@@ -1,5 +1,5 @@
 function gestionarFicheroXML(xmlDoc){
-	let capaVacia = document.querySelector("#cineXML")
+	let capaVacia = document.querySelector("#cine")
     capaVacia.innerHTML =""
 	let cine = xmlDoc.querySelectorAll("cine")
 	for(let i=0; i<cine.length; i++)
